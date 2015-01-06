@@ -1,8 +1,8 @@
 PROFIT-oliojava
 ===============
 
-JyvÃ¤skylÃ¤n yliopiston PROFIT olio ja Java -kurssi 2015
+Linkki kurssin verkkosivuille:
 
-MiksipÃ¤ ei
+Sisältö
 
-äät ja ööt.. :(
+Java1: keskiviikko 14.1.2015 harjoitukset, esimerkit ja tehtävät
