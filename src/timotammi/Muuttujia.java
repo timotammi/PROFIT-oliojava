@@ -29,7 +29,7 @@ public class Muuttujia {
 	
 	public void muuttujia2()
 	{
-		int mansikanKiloHinta; 
+		int mansikanKiloHinta;
 		double first,second,final;
 		char omaNimi;
 		double metriMm;
