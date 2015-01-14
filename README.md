@@ -10,13 +10,16 @@ Java1: keskiviikko 14.1.2015 harjoitukset, esimerkit ja teht‰v‰t
 
 #Ohje kurssirepositoryn lis‰‰miseksi Eclipseen#
 
+Semanttinen virhe
+
 ##Luo oma haara kurssireposta##
 
-Kirjaudu www.github.com
-Hae oikea repo (find: "profit olio"
-1. Voit lis‰t‰ repon kyt‰tt‰v‰ksi, eli github ilmoittaa muutoksista jne. (watch)
-2. Luo kopio repositorysta itsellesi (fork)
-3. Mene omille sivuillesi ja avaa kyseinen repo
+1. Kirjaudu www.github.com
+2. Hae oikea repo (find: "profit olio"
+
+3. Voit lis‰t‰ repon kyt‰tt‰v‰ksi, eli github ilmoittaa muutoksista jne. (watch)
+4. Luo kopio repositorysta itsellesi (fork)
+5. Mene omille sivuillesi ja avaa kyseinen repo
 
 ##Tuo repo Eclipseen##
 
