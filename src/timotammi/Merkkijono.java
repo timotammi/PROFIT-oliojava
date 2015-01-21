@@ -12,6 +12,8 @@ public class Merkkijono {
 		return resultString.toString();
 	}
 
+	
+	
 	public static void main(String[] args) {
 		Merkkijono merkkijono = new Merkkijono();
 		System.out
