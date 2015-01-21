@@ -30,14 +30,15 @@ public class Muuttujia {
 	public void muuttujia2()
 	{
 		int mansikanKiloHinta;
-		double first,second,final;
+		
+		double first,second,final_double;
 		char omaNimi;
 		double metriMm;
 		double tuntejaVuorokaudessa;
-		real nopeus;
+		float nopeus;
 		double AuringonEtaisyys;
-		int kuukaudenKeskiLampo:
-		int kissoja,2_kanaa,kolmeKoiraa;
+		int kuukaudenKeskiLampo;
+		int kissoja,kaksi_kanaa,kolmeKoiraa;
 		int i,j,l,I;
 	}
 
